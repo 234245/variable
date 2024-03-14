@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f7aae05-5fe6-4755-ba05-fb54d0c1a098" name="Changes" comment="basic skeleton 3 variables of java projects" />
+    <list default="true" id="7f7aae05-5fe6-4755-ba05-fb54d0c1a098" name="Changes" comment="basic skeleton 3 variables of java projects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +20,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2daEwFdL3BRW3CqYi37ATZ0Enno" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,7 +41,7 @@
     "Application.HelloWorldR.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "variable",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710238028776</updated>
       <workItem from="1710238030138" duration="1507000" />
+      <workItem from="1710354602050" duration="691000" />
     </task>
     <task id="LOCAL-00001" summary="basic skeleton 3 variables of java projects">
       <option name="closed" value="true" />
@@ -69,7 +77,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710268319089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic skeleton 3 variables of java projects">
+      <option name="closed" value="true" />
+      <created>1710354688188</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710354688188</updated>
+    </task>
+    <task id="LOCAL-00003" summary="basic skeleton 3 variables of java projects">
+      <option name="closed" value="true" />
+      <created>1710354719145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710354719145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
